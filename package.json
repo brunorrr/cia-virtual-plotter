@@ -1,0 +1,30 @@
+{
+  "name": "projeto-cia-virtual-plotador",
+  "version": "1.0.0",
+  "description": "Cia Virtual Plotter",
+  "main": "index.js",
+  "scripts": {
+    "babel": "babel-node index.js",
+    "babel-debug": "babel-node index.js --debug",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunorrr/cia-virtual-plotter.git"
+  },
+  "author": "Bruno Ricci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunorrr/cia-virtual-plotter/issues"
+  },
+  "homepage": "https://github.com/brunorrr/cia-virtual-plotter#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "eslint": "^5.8.0"
+  },
+  "dependencies": {
+    "async": "^2.6.1",
+    "moment": "^2.22.2"
+  }
+}
