@@ -1,0 +1,40 @@
+
+
+                                               Planos de Voo Repetitivos
+                                               Classificação: Ident Anv
+
+CIA: AZU                                    INÍCIO DE VALIDADE: 21Out2018                                       PAG.: 1
+-----------------------------------------------------------------------------------------------------------------------------------------
+   VALIDO VALIDO DIAS OP  IDENT  TIPO   ADEP     VEL   FL  ROTA                                DEST         OBSERVACOES
+   DESDE   ATE   STQQSSD   ANV     TURB     EOBT                                                   EET
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+   271018 271018 0000060 AZU2400 E190/M SBGR0905 N0396 290 DCT DORLU UZ37 VUREP DCT            SBRJ0040 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   221018 261018 1234500 AZU2402 E190/M SBGR1620 N0396 290 DCT DORLU UZ37 VUREP DCT            SBRJ0040 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   211018 211018 0000007 AZU2405 E190/M SBRJ1750 N0402 280 DCT SIDUR UZ10 TBE DCT              SBGR0050 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBBS0032 
+                                                                                                        SBCW0047                      
+   281018 281018 0000007 AZU2405 E190/M SBRJ1805 N0402 280 DCT SIDUR UZ10 TBE DCT              SBGR0050 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBBS0032 
+                                                                                                        SBCW0047                      
+   251018 261018 0004500 AZU2406 E195/M SBGR2310 N0396 290 DCT DORLU UZ37 VUREP DCT            SBRJ0040 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   221018 241018 1230000 AZU2406 E190/M SBGR2310 N0396 290 DCT DORLU UZ37 VUREP DCT            SBRJ0040 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   271018 271018 0000060 AZU2408 E195/M SBVT1900 N0408 300 DCT MABSI UZ44 ADA DCT              SBRJ0056 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   221018 271018 1234560 AZU2410 E195/M SBGR0900 N0404 290 DCT UBRIR UZ23 OPKES DCT            SBCF0053 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBBS0007 
+   221018 261018 1234500 AZU2411 E195/M SBCF1110 N0467 340 DCT MAVBO UZ21 MOXEP DCT            SBGR0059 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBCW0057 
+   271018 271018 0000060 AZU2411 E195/M SBCF1100 N0467 340 DCT MAVBO UZ21 MOXEP DCT            SBGR0059 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBCW0057 
+   211018 211018 0000007 AZU2411 E195/M SBCF1045 N0467 340 DCT MAVBO UZ21 MOXEP DCT            SBGR0059 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBCW0057 
+   271018 271018 0000060 AZU2412 E195/M SBGR1710 N0404 290 DCT UBRIR UZ23 OPKES DCT            SBCF0053 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBBS0007 
+   221018 261018 1234500 AZU2412 E195/M SBGR1455 N0404 290 DCT UBRIR UZ23 OPKES DCT            SBCF0053 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBBS0007 

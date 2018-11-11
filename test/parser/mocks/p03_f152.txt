@@ -1,0 +1,316 @@
+
+
+                                               Planos de Voo Repetitivos
+                                               Classificação: Ident Anv
+
+CIA: AZU                                    INÍCIO DE VALIDADE: 21Out2018                                       PAG.: 1
+-----------------------------------------------------------------------------------------------------------------------------------------
+   VALIDO VALIDO DIAS OP  IDENT  TIPO   ADEP     VEL   FL  ROTA                                DEST         OBSERVACOES
+   DESDE   ATE   STQQSSD   ANV     TURB     EOBT                                                   EET
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+   271018 271018 0000060 AZU2400 E190/M SBGR0905 N0396 290 DCT DORLU UZ37 VUREP DCT            SBRJ0040 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   221018 261018 1234500 AZU2402 E190/M SBGR1620 N0396 290 DCT DORLU UZ37 VUREP DCT            SBRJ0040 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   211018 211018 0000007 AZU2405 E190/M SBRJ1750 N0402 280 DCT SIDUR UZ10 TBE DCT              SBGR0050 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBBS0032 
+                                                                                                        SBCW0047                      
+   281018 281018 0000007 AZU2405 E190/M SBRJ1805 N0402 280 DCT SIDUR UZ10 TBE DCT              SBGR0050 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBBS0032 
+                                                                                                        SBCW0047                      
+   251018 261018 0004500 AZU2406 E195/M SBGR2310 N0396 290 DCT DORLU UZ37 VUREP DCT            SBRJ0040 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   221018 241018 1230000 AZU2406 E190/M SBGR2310 N0396 290 DCT DORLU UZ37 VUREP DCT            SBRJ0040 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   271018 271018 0000060 AZU2408 E195/M SBVT1900 N0408 300 DCT MABSI UZ44 ADA DCT              SBRJ0056 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   221018 271018 1234560 AZU2410 E195/M SBGR0900 N0404 290 DCT UBRIR UZ23 OPKES DCT            SBCF0053 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBBS0007 
+   221018 261018 1234500 AZU2411 E195/M SBCF1110 N0467 340 DCT MAVBO UZ21 MOXEP DCT            SBGR0059 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBCW0057 
+   271018 271018 0000060 AZU2411 E195/M SBCF1100 N0467 340 DCT MAVBO UZ21 MOXEP DCT            SBGR0059 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBCW0057 
+   211018 211018 0000007 AZU2411 E195/M SBCF1045 N0467 340 DCT MAVBO UZ21 MOXEP DCT            SBGR0059 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBCW0057 
+   271018 271018 0000060 AZU2412 E195/M SBGR1710 N0404 290 DCT UBRIR UZ23 OPKES DCT            SBCF0053 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBBS0007 
+   221018 261018 1234500 AZU2412 E195/M SBGR1455 N0404 290 DCT UBRIR UZ23 OPKES DCT            SBCF0053 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBBS0007 
+   251018 251018 0004000 AZU2415 E195/M SBCF0025 N0467 340 DCT MAVBO UZ21 MOXEP DCT            SBGR0059 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBCW0057 
+   241018 241018 0030000 AZU2415 E195/M SBCF0025 N0467 340 DCT MAVBO UZ21 MOXEP DCT            SBGR0059 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBCW0057 
+   231018 271018 0200560 AZU2415 A320/M SBCF0030 N0422 280 DCT MAVBO UZ21 MOXEP DCT            SBGR0058 EQPT/SDFGHIRWY PBN/B1D1O1S1   
+                                                                                                        EET/SBCW0057                  
+   251018 261018 0004500 AZU2416 AT72/M SBRJ2040 N0265 180 DCT NAXOP W6 PORNA DCT              SBSJ0053 EQPT/SDFGHIRY PBN/B1D1O1S1    
+   221018 241018 1230000 AZU2416 AT72/M SBRJ1105 N0265 180 DCT NAXOP W6 PORNA DCT              SBSJ0053 EQPT/SDFGHIRY PBN/B1D1O1S1    
+   221018 241018 1230000 AZU2417 AT72/M SBSJ1245 N0266 170 DCT DORLU W53 VUREP DCT             SBRJ0044 EQPT/SDFGHIRY PBN/B1D1O1S1    
+   251018 261018 0004500 AZU2417 AT72/M SBSJ2220 N0266 170 DCT DORLU W53 VUREP DCT             SBRJ0044 EQPT/SDFGHIRY PBN/B1D1O1S1    
+   221018 261018 1234500 AZU2419 A320/M SBKP1645 N0454 370 DCT UTGER UZ23 BHZ UZ16 KOKSU UZ14  SBRF0242 EQPT/SDFGHIRWY PBN/B1D1O1S1   
+                                                           AVILA UZ59 ZIPAR DCT                         EET/SBRE0106                  
+   271018 271018 0000060 AZU2420 E195/M SBKP0915 N0432 350 DCT UTGER UZ23 OPKES DCT            SBCF0050 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   221018 241018 1230000 AZU2420 E195/M SBKP0910 N0432 350 DCT UTGER UZ23 OPKES DCT            SBCF0050 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   251018 261018 0004500 AZU2420 E195/M SBKP0910 N0432 350 DCT UTGER UZ23 OPKES DCT            SBCF0050 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   211018 281018 0000007 AZU2421 E195/M SBCF2125 N0436 260 DCT MOTMA UZ30 ENTIT DCT            SBKP0056 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   211018 281018 0000007 AZU2421 E195/M SBKP2325 N0448 280 UM792                               SBCT0040 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBCW0004 
+   231018 261018 0234500 AZU2423 AT72/M SBRP1355 N0258 170 DCT LOKAR Z10 PUPSI DCT             SBKP0056 EQPT/SDFGHIRY PBN/B1D1O1S1    
+                                                                                                        EET/SBCW0030 SBBS0042         
+   221018 271018 1000060 AZU2423 AT72/M SBRP1410 N0258 170 DCT LOKAR Z10 PUPSI DCT             SBKP0056 EQPT/SDFGHIRY PBN/B1D1O1S1    
+                                                                                                        EET/SBCW0030 SBBS0042         
+   221018 271018 1234560 AZU2425 AT72/M SBLO0920 N0261 190 DCT AKTIT DCT OBLUG DCT PUPSI DCT   SBKP0101 EQPT/SDFGHIRY PBN/B1D1O1S1    
+                                                                                                        EET/SBBS0048                  
+   221018 251018 1234000 AZU2426 AT72/M SBCF1920 N0259 160 DCT SELDO W11                       SBUL0118 EQPT/SDFGHIRY PBN/B1D1O1S1    
+   261018 261018 0000500 AZU2426 AT72/M SBCF1805 N0259 160 DCT SELDO W11                       SBUL0118 EQPT/SDFGHIRY PBN/B1D1O1S1    
+   221018 251018 1234000 AZU2427 AT72/M SBUL2125 N0259 170 W11 POSTA DCT                       SBCF0106 EQPT/SDFGHIRY PBN/B1D1O1S1    
+   261018 261018 0000500 AZU2427 AT72/M SBUL2010 N0259 170 W11 POSTA DCT                       SBCF0106 EQPT/SDFGHIRY PBN/B1D1O1S1    
+   211018 281018 1234507 AZU2428 E195/M SBCF2035 N0463 360 DCT SIDOL UZ33                      SBBR0104 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   231018 251018 0204000 AZU2429 AT72/M SBPA1720 N0262 160 DCT DOPGA W18                       SBSM0051 EQPT/SDFGHIRY PBN/B1D1O1S1    
+   211018 281018 1234507 AZU2430 AT72/M SBSR2220 N0258 170 Z10 PUPSI DCT                       SBKP0103 EQPT/SDFGHIRY PBN/B1D1O1S1    
+   211018 281018 0000007 AZU2431 E195/M SBCF1430 N0467 340 DCT MAVBO UZ21 MOXEP DCT            SBGR0059 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBCW0057 
+   281018 281018 0000007 AZU2432 E195/M SBCF2240 N0465 350 DCT KOKSU UZ14 OBDUD/N0444F330      SBRF0215 EQPT/SDFGHIRWY                
+                                                           UZ14 AVILA UZ59 ZIPAR DCT                    PBN/A1B1D1O1S1S2 EET/SBRE0032 
+   211018 241018 1030007 AZU2432 E195/M SBCF2230 N0465 350 DCT KOKSU UZ14 OBDUD/N0444F330      SBRF0215 EQPT/SDFGHIRWY                
+                                                           UZ14 AVILA UZ59 ZIPAR DCT                    PBN/A1B1D1O1S1S2 EET/SBRE0032 
+   231018 251018 0204000 AZU2432 A320/M SBCF2230 N0453 370 DCT KOKSU UZ14 AVILA UZ59 ZIPAR DCT SBRF0211 EQPT/SDFGHIRWY PBN/B1D1O1S1   
+                                                                                                        EET/SBRE0031                  
+   261018 261018 0000500 AZU2432 E195/M SBCF2215 N0465 350 DCT KOKSU UZ14 OBDUD/N0444F330      SBRF0215 EQPT/SDFGHIRWY                
+                                                           UZ14 AVILA UZ59 ZIPAR DCT                    PBN/A1B1D1O1S1S2 EET/SBRE0032 
+   211018 271018 1234567 AZU2433 A320/M SBCY1450 N0453 370 DCT NEKET UZ63 PAPAN UZ52 LUANA     SBGR0204 EQPT/SDFGHIRWY PBN/B1D1O1S1   
+                                                           UM411 EDMOX/N0450F350 UM411 PUPSI            EET/SBCW0022 SBBS0135 SBCW0202
+                                                           DCT                                          
+   281018 281018 0000007 AZU2433 A320/M SBCY1440 N0453 370 DCT NEKET UZ63 PAPAN UZ52 LUANA     SBGR0204 EQPT/SDFGHIRWY PBN/B1D1O1S1   
+                                                           UM411 EDMOX/N0450F350 UM411 PUPSI            EET/SBCW0022 SBBS0135 SBCW0202
+                                                           DCT                                          
+   211018 281018 1234507 AZU2434 E195/M SBKP2105 N0448 340 UZ58 EGEVA UM415 DUNCE DCT          SBCG0123 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBCW0008 
+   211018 281018 0000007 AZU2435 E195/M SBSP1500 N0448 350 DCT UBRIR UZ23 OPKES DCT            SBCF0052 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBBS0009 
+   211018 281018 0000007 AZU2435 E195/M SBPA1250 N0453 350 DCT OGLOL UZ23 GESDA/N0461F370      SBSP0114 EQPT/SDFGHIRWY                
+                                                           UZ23 ERODU DCT                               PBN/A1B1D1O1S1S2              
+   221018 251018 1004000 AZU2437 E195/M SBFZ2100 N0466 350 DCT EGBOL DCT KODSO DCT ILNOT DCT   SBRF0105 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   221018 251018 1004000 AZU2437 E195/M SBSL1910 N0436 330 UZ81                                SBFZ0108 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBRE0024 
+   231018 261018 0230500 AZU2437 E195/M SBSL1930 N0436 330 UZ81                                SBFZ0108 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBRE0024 
+   231018 261018 0230500 AZU2437 E195/M SBFZ2125 N0466 350 DCT EGBOL DCT KODSO DCT ILNOT DCT   SBRF0105 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   221018 261018 1234500 AZU2438 A320/M SBGR2205 N0470 290 DCT UBRIR UZ23 OPKES DCT            SBCF0046 EQPT/SDFGHIRWY PBN/B1D1O1S1   
+                                                                                                        EET/SBBS0005                  
+   281018 281018 0000007 AZU2438 E195/M SBGR2150 N0404 290 DCT UBRIR UZ23 OPKES DCT            SBCF0053 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBBS0007 
+   211018 211018 0000007 AZU2438 E195/M SBGR2205 N0404 290 DCT UBRIR UZ23 OPKES DCT            SBCF0053 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBBS0007 
+   211018 281018 0000007 AZU2439 E195/M SBHT1830 N0461 370 DCT KOGSA DCT ILMAN UZ81            SBBE0050 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   221018 261018 1234500 AZU2439 E195/M SBHT1850 N0461 370 DCT KOGSA DCT ILMAN UZ81            SBBE0050 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   211018 281018 1030507 AZU2440 AT72/M SBPA1900 N0262 160 DCT DOPGA W18                       SBSM0051 EQPT/SDFGHIRY PBN/B1D1O1S1    
+   211018 281018 1030507 AZU2441 AT72/M SBSM2040 N0263 150 W18 DOPGA DCT                       SBPA0042 EQPT/SDFGHIRY PBN/B1D1O1S1    
+   211018 281018 1234507 AZU2442 AT72/M SBKP1700 N0264 180 W47                                 SBLO0114 EQPT/SDFGHIRY PBN/B1D1O1S1    
+                                                                                                        EET/SBCW0016                  
+   241018 241018 0030000 AZU2443 AT72/M SBJU1420 N0253 190 DCT JZR DCT 0736S03713W DCT REC DCT SBRF0120 EQPT/SDFGHIRY PBN/B1D1O1S1    
+   221018 261018 1234500 AZU2444 E195/M SBKP2115 N0441 340 DCT TEMAM UM792 CTB UZ13 EKUTI DCT  SBPA0127 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBCW0005 
+
+
+CIA: AZU                                    INÍCIO DE VALIDADE: 21Out2018                                       PAG.: 2
+-----------------------------------------------------------------------------------------------------------------------------------------
+   VALIDO VALIDO DIAS OP  IDENT  TIPO   ADEP     VEL   FL  ROTA                                DEST         OBSERVACOES
+   DESDE   ATE   STQQSSD   ANV     TURB     EOBT                                                   EET
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+   271018 271018 0000060 AZU2446 AT72/M SBRF1205 N0256 150 W41                                 SBFN0123 EQPT/SDFGHIRY PBN/B1D1O1S1    
+   231018 251018 0204000 AZU2447 AT72/M SBSM1855 N0263 150 W18 DOPGA DCT                       SBPA0042 EQPT/SDFGHIRY PBN/B1D1O1S1    
+   281018 281018 0000007 AZU2448 A320/M SBKP1950 N0453 370 DCT UTGER UZ23 BHZ UZ16 POSMU UZ36  SBSV0152 EQPT/SDFGHIRWY PBN/B1D1O1S1   
+                                                           MUMAS DCT                                    EET/SBRE0050                  
+   211018 211018 0000007 AZU2448 A320/M SBKP1945 N0453 370 DCT UTGER UZ23 BHZ UZ16 POSMU UZ36  SBSV0152 EQPT/SDFGHIRWY PBN/B1D1O1S1   
+                                                           MUMAS DCT                                    EET/SBRE0050                  
+   271018 271018 0000060 AZU2449 E195/M SBBR2150 N0470 330 DCT MUGIS UZ35 MEBLU DCT            SBCF0055 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   221018 271018 1234560 AZU2450 AT72/M SBKP0155 N0264 180 W47                                 SBLO0114 EQPT/SDFGHIRY PBN/B1D1O1S1    
+                                                                                                        EET/SBCW0016                  
+   221018 261018 1234500 AZU2452 E195/M SBRJ2315 N0394 290 DCT TISVA UL206                     SBVT0045 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   211018 281018 0000007 AZU2453 E190/M SBVT2325 N0408 300 DCT MABSI UZ44 ADA DCT              SBRJ0056 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   231018 271018 0234560 AZU2453 E195/M SBVT0000 N0408 300 DCT MABSI UZ44 ADA DCT              SBRJ0056 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   211018 261018 1234507 AZU2455 AT72/M SBLO1900 N0261 190 DCT AKTIT DCT OBLUG DCT PUPSI DCT   SBKP0101 EQPT/SDFGHIRY PBN/B1D1O1S1    
+                                                                                                        EET/SBBS0048                  
+   281018 281018 0000007 AZU2455 AT72/M SBLO1905 N0261 190 DCT AKTIT DCT OBLUG DCT PUPSI DCT   SBKP0101 EQPT/SDFGHIRY PBN/B1D1O1S1    
+                                                                                                        EET/SBBS0048                  
+   221018 271018 1234560 AZU2456 A320/M SBKP0030 N0457 270 DCT UTGER UZ23 OPKES DCT            SBCF0048 EQPT/SDFGHIRWY PBN/B1D1O1S1   
+   231018 271018 0234560 AZU2456 A320/M SBCF0230 N0453 370 DCT OBGAR UZ61 OBGEL DCT ABUCU DCT  SBFZ0231 EQPT/SDFGHIRWY PBN/B1D1O1S1   
+                                                                                                        EET/SBRE0034                  
+   241018 241018 0030000 AZU2457 AT72/M SBRF1215 N0254 180 DCT 0736S03713W DCT JZR DCT         SBJU0110 EQPT/SDFGHIRY PBN/B1D1O1S1    
+   271018 271018 0000060 AZU2461 AT72/M SBRF2045 N0262 150 DCT 0816S03446W 0701S03505W DCT     SBJP0040 EQPT/SDFGHIRY PBN/B1D1O1S1    
+                                                           JPS DCT                                      
+   211018 281018 0000007 AZU2462 E195/M SBKP2305 N0432 350 DCT UTGER UZ23 OPKES DCT            SBCF0050 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   211018 281018 0000007 AZU2463 AT72/M SBJP1025 N0263 120 DCT UGIBO DCT 0750S03511W           SBRF0031 EQPT/SDFGHIRY PBN/B1D1O1S1    
+                                                           0759S03505W DCT                              
+   211018 281018 1234507 AZU2464 AT72/M SBCF1500 N0256 170 DCT PENTE DCT 1645S04420W DCT       SNBR0204 EQPT/SDFGHIRY PBN/B1D1O1S1    
+                                                           MALBA DCT 1231S04457W/N0250F095              EET/SBRE0120 RALT/F160 DCT    
+                                                           VFR DCT 1222S04458W DCT                      SBPJ                          
+   271018 271018 0000060 AZU2464 AT72/M SBCF1305 N0256 170 DCT PENTE DCT 1645S04420W DCT       SNBR0204 EQPT/SDFGHIRY PBN/B1D1O1S1    
+                                                           MALBA DCT 1231S04457W/N0250F095              EET/SBRE0120 RALT/F160 DCT    
+                                                           VFR DCT 1222S04458W DCT                      SBPJ                          
+   211018 281018 1234507 AZU2465 AT72/M SNBR1750 N0258 125 DCT 1235S04453W/N0258F160 IFR DCT   SBCF0201 EQPT/SDFGHIRY PBN/B1D1O1S1    
+                                                           EGDES DCT PUGVA DCT                          EET/SBBS0052                  
+   271018 271018 0000060 AZU2465 AT72/M SNBR1600 N0258 125 DCT 1235S04453W/N0258F160 IFR DCT   SBCF0201 EQPT/SDFGHIRY PBN/B1D1O1S1    
+                                                           EGDES DCT PUGVA DCT                          EET/SBBS0052                  
+   231018 251018 0204000 AZU2466 E190/M SBCT1445 N0399 270 DCT KOSVO UZ25 OBMAV DCT            SBKP0042 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBBS0031 
+   221018 261018 1030500 AZU2466 E195/M SBCT1445 N0399 270 DCT KOSVO UZ25 OBMAV DCT            SBKP0042 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBBS0031 
+   211018 281018 0200007 AZU2468 E195/M SBCF1650 N0436 260 DCT MOTMA UZ30 ENTIT DCT            SBKP0056 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   221018 261018 1034500 AZU2468 E195/M SBCF1645 N0436 260 DCT MOTMA UZ30 ENTIT DCT            SBKP0056 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   211018 211018 0000007 AZU2470 AT72/M SBCF0030 N0259 160 DCT SELDO W31                       SBUR0111 EQPT/SDFGHIRY PBN/B1D1O1S1    
+   211018 211018 0000007 AZU2472 E195/M SBSP1005 N0448 350 DCT UBRIR UZ23 OPKES DCT            SBCF0052 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBBS0009 
+   281018 281018 0000007 AZU2472 E195/M SBSP1000 N0448 350 DCT UBRIR UZ23 OPKES DCT            SBCF0052 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBBS0009 
+   271018 271018 0000060 AZU2475 E195/M SBKP2020 N0432 350 DCT UTGER UZ23 OPKES DCT            SBCF0050 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   261018 261018 0000500 AZU2476 E195/M SBSP2250 N0433 320 DCT UBSOD UZ38 DOVSO/N0454F340      SBPA0122 EQPT/SDFGHIRWY                
+                                                           UZ38 EKUTI DCT                               PBN/A1B1D1O1S1S2              
+   231018 261018 0234500 AZU2477 E190/M SBRJ1435 N0402 280 DCT SIDUR UZ10 TBE DCT              SBGR0050 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBBS0032 
+                                                                                                        SBCW0047                      
+   221018 221018 1000000 AZU2477 E190/M SBRJ1430 N0402 280 DCT SIDUR UZ10 TBE DCT              SBGR0050 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBBS0032 
+                                                                                                        SBCW0047                      
+   251018 251018 0004000 AZU2478 E195/M SBCT1200 N0396 260 UZ63                                SBLO0045 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   221018 271018 1234560 AZU2478 E195/M SBLO1340 N0437 340 DCT PRR DCT UTRAG DCT 1934S05321W   SBCY0134 EQPT/SDFGHIRWY                
+                                                           DCT EGIMO DCT CIA DCT                        PBN/A1B1D1O1S1S2 EET/SBAZ0101 
+   221018 271018 1230560 AZU2478 E195/M SBCT1205 N0396 260 UZ63                                SBLO0045 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   261018 261018 0000500 AZU2479 E195/M SBCT0030 N0422 300 DCT UKARU UZ43 ESNIK UZ13           SBPA0059 EQPT/SDFGHIRWY                
+                                                           AKRUG/N0430F320 UZ13 EKUTI DCT               PBN/A1B1D1O1S1S2              
+   211018 281018 1234507 AZU2479 E195/M SBCY2025 N0439 330 UZ63                                SBLO0135 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBCW0022 
+   231018 271018 0234060 AZU2479 E195/M SBCT0010 N0422 300 DCT UKARU UZ43 ESNIK UZ13           SBPA0059 EQPT/SDFGHIRWY                
+                                                           AKRUG/N0430F320 UZ13 EKUTI DCT               PBN/A1B1D1O1S1S2              
+   211018 281018 1234507 AZU2479 E195/M SBLO2240 N0393 270 UZ63                                SBCT0038 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   211018 211018 0000007 AZU2480 A320/M SBGR1800 N0452 380 DCT UKBEV UL201 ISLAL DCT LITUS     SBCY0201 EQPT/SDFGHIRWY PBN/B1D1O1S1   
+                                                           UM775                                        EET/SBBS0001 SBAZ0128         
+   281018 281018 0000007 AZU2480 A320/M SBGR1730 N0452 380 DCT UKBEV UL201 ISLAL DCT LITUS     SBCY0201 EQPT/SDFGHIRWY PBN/B1D1O1S1   
+                                                           UM775                                        EET/SBBS0001 SBAZ0128         
+   221018 271018 1234560 AZU2480 A320/M SBGR1800 N0452 380 DCT UKBEV UL201 ISLAL DCT LITUS     SBCY0201 EQPT/SDFGHIRWY PBN/B1D1O1S1   
+                                                           UM775                                        EET/SBBS0001 SBAZ0128         
+   211018 211018 0000007 AZU2484 E195/M SBCT1130 N0390 250 DCT EDVEB UM548 ERODU DCT           SBSP0040 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   281018 281018 0000007 AZU2484 E195/M SBCT1120 N0390 250 DCT EDVEB UM548 ERODU DCT           SBSP0040 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   211018 281018 1234507 AZU2485 AT72/M SBPK1555 N0260 170 DCT GENUS DCT                       SBPA0036 EQPT/SDFGHIRY PBN/B1D1O1S1    
+   211018 211018 0000007 AZU2486 E195/M SBCF1705 N0432 320 DCT MOTMA UZ30 ENTIT DCT            SBSP0107 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBCW0051 
+   281018 281018 0000007 AZU2486 E195/M SBCF1650 N0432 320 DCT MOTMA UZ30 ENTIT DCT            SBSP0107 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBCW0051 
+   281018 281018 0000007 AZU2487 E195/M SBFL1805 N0447 350 DCT DAGPI UZ25 OBMAV DCT            SBKP0059 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBBS0048 
+   231018 231018 0200000 AZU2487 E190/M SBFL1755 N0447 350 DCT DAGPI UZ25 OBMAV DCT            SBKP0059 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBBS0048 
+   211018 251018 0004007 AZU2487 E195/M SBFL1755 N0447 350 DCT DAGPI UZ25 OBMAV DCT            SBKP0059 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBBS0048 
+   241018 261018 0030500 AZU2487 E195/M SBFL1745 N0447 350 DCT DAGPI UZ25 OBMAV DCT            SBKP0059 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBBS0048 
+   221018 221018 1000000 AZU2487 E195/M SBFL1555 N0447 350 DCT DAGPI UZ25 OBMAV DCT            SBKP0059 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBBS0048 
+   211018 281018 0000007 AZU2488 E195/M SBKP0025 N0432 340 UZ58 LON DCT                        SBMG0056 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBCW0010 
+   221018 271018 1234560 AZU2490 E195/M SBCT0115 N0396 260 UZ63                                SBLO0045 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   281018 281018 0000007 AZU2491 E195/M SBLO0855 N0393 270 UZ63                                SBCT0038 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   211018 271018 1234567 AZU2491 E195/M SBCT1020 N0461 370 DCT CTB UM548 ERODU UZ23 OPKES DCT  SBCF0118 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBBS0032 
+   281018 281018 0000007 AZU2491 E195/M SBCT1015 N0461 370 DCT CTB UM548 ERODU UZ23 OPKES DCT  SBCF0118 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBBS0032 
+   211018 271018 1234567 AZU2491 E195/M SBLO0900 N0393 270 UZ63                                SBCT0038 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   281018 281018 0000007 AZU2493 AT72/M SBMK2220 N0259 180 DCT NITMI W8                        SBCF0048 EQPT/SDFGHIRY PBN/B1D1O1S1    
+   211018 261018 1234507 AZU2493 AT72/M SBMK2225 N0259 180 DCT NITMI W8                        SBCF0048 EQPT/SDFGHIRY PBN/B1D1O1S1    
+
+
+CIA: AZU                                    INÍCIO DE VALIDADE: 21Out2018                                       PAG.: 3
+-----------------------------------------------------------------------------------------------------------------------------------------
+   VALIDO VALIDO DIAS OP  IDENT  TIPO   ADEP     VEL   FL  ROTA                                DEST         OBSERVACOES
+   DESDE   ATE   STQQSSD   ANV     TURB     EOBT                                                   EET
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+   271018 271018 0000060 AZU2495 AT72/M SBMG2045 N0257 170 DCT LON Z31 ANSOK DCT PUPSI DCT     SBKP0119 EQPT/SDFGHIRY PBN/B1D1O1S1    
+                                                                                                        EET/SBBS0105                  
+   221018 271018 1230560 AZU2496 E195/M SBKP1025 N0448 280 UM792                               SBCT0040 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBCW0004 
+   251018 251018 0004000 AZU2496 E195/M SBKP1015 N0448 280 UM792                               SBCT0040 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBCW0004 
+   281018 281018 0000007 AZU2497 AT72/M SBMO2355 N0259 130 DCT MCE DCT                         SBRF0041 EQPT/SDFGHIRY PBN/B1D1O1S1    
+   221018 271018 1234560 AZU2497 AT72/M SBMO0005 N0259 130 DCT MCE DCT                         SBRF0041 EQPT/SDFGHIRY PBN/B1D1O1S1    
+   211018 281018 0000067 AZU2501 E195/M SBRJ1105 N0422 310 DCT ISRIN UZ4 UMKIT DCT             SBCF0049 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBBS0033 
+   281018 281018 0000007 AZU2502 AT72/M SBRF1700 N0259 170 W33 NTL DCT                         SBSG0043 EQPT/SDFGHIRY PBN/B1D1O1S1    
+   211018 261018 1234507 AZU2502 AT72/M SBRF1640 N0259 170 W33 NTL DCT                         SBSG0043 EQPT/SDFGHIRY PBN/B1D1O1S1    
+   211018 281018 0000007 AZU2504 E195/M SBCF2000 N0401 270 UZ35                                SBVT0044 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBRE0015 
+   271018 271018 0000060 AZU2505 E195/M SBKP1110 N0442 340 DCT TEMAM UZ73                      SBFI0125 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBCW0005 
+   271018 271018 0000060 AZU2506 E195/M SBFI1320 N0452 350 DCT MATEL UZ65 SIGAR/N0461F370      SBKP0112 EQPT/SDFGHIRWY                
+                                                           UZ65 LON DCT PUPSI DCT                       PBN/A1B1D1O1S1S2 EET/SARR0001 
+                                                                                                        SBCW0002 SBBS0101             
+   221018 251018 1234000 AZU2507 AT72/M SBCF2100 N0259 160 DCT SELDO W11                       SBUL0118 EQPT/SDFGHIRY PBN/B1D1O1S1    
+   261018 261018 0000500 AZU2507 AT72/M SBCF2215 N0259 160 DCT SELDO W11                       SBUL0118 EQPT/SDFGHIRY PBN/B1D1O1S1    
+   221018 221018 1000000 AZU2509 E195/M SBKP0020 N0441 340 DCT TEMAM UM792 CTB UZ13 EKUTI DCT  SBPA0127 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBCW0005 
+   211018 281018 0000007 AZU2510 E195/M SBCF0030 N0463 360 DCT SIDOL UZ33                      SBBR0104 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   271018 271018 0000060 AZU2511 E195/M SBGO1400 N0468 340 DCT UBSUS DCT MABMA UZ46            SBCY0115 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBAZ0036 
+   271018 271018 0000060 AZU2511 E195/M SBCF1155 N0468 340 DCT SELDO UZ8 CORVO UZ46            SBGO0111 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   211018 281018 0000007 AZU2512 E195/M SBVT2135 N0401 300 UZ34                                SBCF0055 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2 EET/SBBS0022 
+   281018 281018 0000007 AZU2514 E195/M SBKP1305 N0432 350 DCT UTGER UZ23 OPKES DCT            SBCF0050 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   231018 251018 0204000 AZU2514 E195/M SBKP1410 N0432 350 DCT UTGER UZ23 OPKES DCT            SBCF0050 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   211018 281018 0000007 AZU2514 E195/M SBCF1445 N0470 330 UZ4 PERLA/N0466F350 UZ4 OPLUK UZ51  SBJE0234 EQPT/SDFGHIRWY                
+                                                           NIMRA DCT                                    PBN/A1B1D1O1S1S2 EET/SBRE0038 
+   231018 251018 0204000 AZU2514 E195/M SBCF1605 N0470 330 UZ4 PERLA/N0466F350 UZ4 OPLUK UZ51  SBJE0234 EQPT/SDFGHIRWY                
+                                                           NIMRA DCT                                    PBN/A1B1D1O1S1S2 EET/SBRE0038 
+   211018 211018 0000007 AZU2514 E195/M SBKP1305 N0432 350 DCT UTGER UZ23 OPKES DCT            SBCF0050 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   211018 281018 0000007 AZU2515 E195/M SBJE1800 N0443 320 DCT ISUPI UZ51 DOTMO/N0458F340      SBCF0245 EQPT/SDFGHIRWY                
+                                                           UZ51 OPLUK UZ4                               PBN/A1B1D1O1S1S2 EET/SBBS0200 
+   231018 251018 0204000 AZU2515 E195/M SBCF2300 N0436 260 DCT MOTMA UZ30 ENTIT DCT            SBKP0056 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              
+   231018 251018 0204000 AZU2515 E195/M SBJE1925 N0443 320 DCT ISUPI UZ51 DOTMO/N0458F340      SBCF0245 EQPT/SDFGHIRWY                
+                                                           UZ51 OPLUK UZ4                               PBN/A1B1D1O1S1S2 EET/SBBS0200 
+   211018 211018 0000007 AZU2518 A320/M SBSV2250 N0451 380 DCT BLOCK UZ10 PUBAV UZ16 POSMU     SBKP0207 EQPT/SDFGHIRWY PBN/B1D1O1S1   
+                                                           DCT CNF DCT XOMOD UZ30 ENTIT DCT             EET/SBBS0104                  
+   281018 281018 0000007 AZU2518 A320/M SBSV2255 N0451 380 DCT BLOCK UZ10 PUBAV UZ16 POSMU     SBKP0207 EQPT/SDFGHIRWY PBN/B1D1O1S1   
+                                                           DCT CNF DCT XOMOD UZ30 ENTIT DCT             EET/SBBS0104                  
+   281018 281018 0000007 AZU2519 AT72/M SBGV1930 N0260 085 DCT 1852S04228W/N0262F160 IFR DCT   SBCF0040 EQPT/SDFGHIRY PBN/B1D1O1S1    
+                                                           OPLUT DCT                                    EET/SBBS0010                  
+   211018 261018 1234507 AZU2519 AT72/M SBGV1925 N0260 085 DCT 1852S04228W/N0262F160 IFR DCT   SBCF0040 EQPT/SDFGHIRY PBN/B1D1O1S1    
+                                                           OPLUT DCT                                    EET/SBBS0010                  
+   271018 271018 0000060 AZU2519 AT72/M SBGV1330 N0260 085 DCT 1852S04228W/N0262F160 IFR DCT   SBCF0040 EQPT/SDFGHIRY PBN/B1D1O1S1    
+                                                           OPLUT DCT                                    EET/SBBS0010                  
+   271018 271018 0000060 AZU2520 E195/M SBBR0900 N0470 330 DCT MUGIS UZ35 MEBLU DCT            SBCF0055 EQPT/SDFGHIRWY                
+                                                                                                        PBN/A1B1D1O1S1S2              

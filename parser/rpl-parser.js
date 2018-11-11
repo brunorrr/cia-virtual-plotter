@@ -87,7 +87,7 @@ export default (data, callback) => {
     return {
       initialDate: moment(lineArray[0].substring(3,9), 'DDMMYY').toDate(),
       finalDate: moment(lineArray[0].substring(10,16), 'DDMMYY').toDate(),
-      daysOfWeek: new Set(lineArray[0].substring(17,24).replace(/[0-9]/g,'').split('')),
+      daysOfWeek: new Set(lineArray[0].substring(17,24).replace(/0/g,'').split('')),
       flightNumber: lineArray[0].substring(25,32),
       airFrame: lineArray[0].substring(33,37),
       depAerodrome: lineArray[0].substring(40,44),
