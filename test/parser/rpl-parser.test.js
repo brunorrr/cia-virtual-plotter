@@ -5,7 +5,7 @@ import fs from 'fs';
 import path from 'path';
 
 test('Return data has 3 pages with 152 flights', done => {
-  const data = fs.readFileSync(path.join(__dirname,'mocks', 'p03_f152.txt'), 'utf8').split('\r\n');
+  const data = fs.readFileSync(path.join(__dirname,'mocks', 'rpl_p03_f152.txt'), 'utf8').split('\r\n');
   parseRpl(data, flights => {
     expect(flights.length).toBe(152);
     const azu2464 = flights.filter( flight => flight.flightNumber === 'AZU2464' && flight.airFrame === 'AT72' )[0];
@@ -15,7 +15,7 @@ test('Return data has 3 pages with 152 flights', done => {
 });
 
 test('Return data has 1 page with 13 flights', done => {
-  const data = fs.readFileSync(path.join(__dirname,'mocks', 'p01_f13.txt'), 'utf8').split('\r\n');
+  const data = fs.readFileSync(path.join(__dirname,'mocks', 'rpl_p01_f13.txt'), 'utf8').split('\r\n');
   parseRpl(data, flights => {
     expect(flights.length).toBe(13);
     const azu2412 = flights.filter( flight => flight.flightNumber === 'AZU2412' && flight.daysOfWeek.has('2') )[0];

@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "babel-node index.js",
     "dev-debug": "babel-node index.js --debug",
-    "lint": "eslint .",
+    "lint": "eslint --ignore-path .gitignore .",
     "test": "jest"
   },
   "repository": {
