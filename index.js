@@ -4,9 +4,10 @@ import { findRpl, findDaily } from './finder';
 import { parseRpl, parseDaily } from './parser';
 import moment from 'moment';
 
-export default callback => {
-  findDaily((header, lines) =>
+export default ({dailyUrl, rplUrl },callback) => {
+  findDaily(dailyUrl, (header, lines) =>
     findRpl(
+      rplUrl,
       null,
       rpl => parseRpl(
         rpl,

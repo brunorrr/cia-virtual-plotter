@@ -3,7 +3,7 @@
 import rplFinder from './rpl-finder';
 import dailyFinder from './daily-finder';
 
-const findRpl = (rplDate, callback) => rplFinder(rplDate, callback);
-const findDaily = callback => dailyFinder(callback);
+const findRpl = (rplUrl, rplDate, callback) => rplFinder(rplUrl, rplDate, callback);
+const findDaily = (dailyUrl, callback) => dailyFinder(dailyUrl, callback);
 
 export { findRpl, findDaily };
