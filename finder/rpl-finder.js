@@ -17,32 +17,24 @@ export default (rplUrl, rplDate, callback) => {
         //TODO Error Handling
         throw err;
       }
-      processData(data);
+      callback(data.split('\r\n'));
     });
 
-    // Handle crude data
-    const processData = data => {
-      callback(data.split('\r\n'));
-    };
   };
   
   if (!fs.existsSync(tempFile)) {
     http.get(rplUrl, res => {
       const { statusCode } = res;
 
-      let error;
       if (statusCode !== 200) {
-        error = new Error('Request Failed.\n' +
-          `Status Code: ${statusCode}`);
-      }
-      if (error) {
         res.resume();
-        throw error;
+        throw new Error('Request Failed.\n' +
+          `Status Code: ${statusCode}`);
       }
 
       res.setEncoding('utf8');
       let rawData = '';
-      res.on('data', chunk => rawData = rawData.concat(chunk) );
+      res.on('data', chunk => rawData = `${rawData}${chunk}` );
       res.on('end', () => {
         try {
           fs.appendFile(tempFile, rawData, error => {
